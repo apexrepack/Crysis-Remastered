@@ -1,5 +1,6 @@
-                                                Crysis Remastered
+
+                                               Crysis Remastered Script
 
 - Crysis Remastered APEX Repack Script Coming Soon
 - Repack Script Are Testing Processing
-- Normal Users Script Release In July Month To Probaly
+- Normal Users Crysis Remastered Repack Script Release In July Month Probaly
