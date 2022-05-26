@@ -13,4 +13,4 @@
 - Normal Users Crysis Remastered Repack Script Release In July Month Probaly.
 
 [Normal Script Process]
-- Working
+- 10% Complete
