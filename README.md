@@ -1,8 +1,8 @@
                                                Crysis Remastered Script
 
 [Repack Developer Release Note]
-- Crysis Remastered APEX Repack Script Coming Soon.
-- Repack Script Are Testing Processing.
+- Crysis Remastered APEX Repack Script 35% Done.
+- Repack Script Are Testing Process 35% Done.
 - This Script Only Using In Repack Developer.
 
  [Repack Script Process]
