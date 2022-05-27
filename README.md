@@ -22,4 +22,4 @@ Normal Repack Script Process:
 - Compressor Code Some Issue Created But We Are Fixing This Issue 
 ***************************************************************************************************
 
-Twitter https://wwww.twitter.com/aperepack
+Twitter https://www.twitter.com/aperepack
