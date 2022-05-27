@@ -1,9 +1,11 @@
-                         ***Crysis Remastered By Normal Repack Script***
+                                                Crysis Remastered
 
-[Normal Repack Script Changelog]
+***************************************************************************************************
+Normal Repack Script Changelog:
 - Normal Users Crysis Remastered Repack Script Release In July Month Probaly.
 - Added Lzma2, Srep64 & Precomp0.43 Compressor Script.
-
-[Normal Repack Script Process]
-- 10% Complete
-- Compressor Script To Working
+***************************************************************************************************
+Normal Repack Script Process:
+- 35% Script Done!
+- Compressor Code Some Issue Created But We Are Fixing This Issue 
+***************************************************************************************************
