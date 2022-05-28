@@ -1,4 +1,4 @@
-                                               Crysis Remastered Script
+                                            Crysis Remastered Repack Game Script
 *************************************************************************************************
 Repack Script Changelog:
 - Crysis Remastered APEX Repack Script 85% Done.
