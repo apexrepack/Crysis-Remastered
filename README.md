@@ -24,4 +24,4 @@ Normal Repack Script Process:
 - Compressor Issue Fixed!
 ***************************************************************************************************
 
-Twitter https://www.twitter.com/apexrepack
+Twitter ➡ https://www.twitter.com/apexrepack
