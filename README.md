@@ -9,8 +9,6 @@ Repack Script Changelog:
 - Removed Lzma & Srep Compressor Script Code Line.
 - Compressor Path Changed For E:\ Disk.
 - Compressor .bat Files Name Changed.
-- Repack Tools v2.1.0.0 Beta Able This Repack Script Tools.
-- Beta Repack Tools Support Able Only Repack Developer Not To Be Normal Users.
 *************************************************************************************************
  Repack Script Process:
 - 85% Script Done!
