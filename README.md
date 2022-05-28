@@ -14,8 +14,6 @@ Repack Script Changelog:
 *************************************************************************************************
  Repack Script Process:
 - 85% Script Done!
-- Compressor Code Adding Successfully!
-- Testing Process Done!
 **************************************************************************************************
 Normal Repack Script Changelog:
 - Normal Users Crysis Remastered Repack Script Release In July Month Probaly.
@@ -25,7 +23,7 @@ Normal Repack Script Changelog:
 ***************************************************************************************************
 Normal Repack Script Process:
 - 55% Script Done!
-- Compressor Code Some Issue Created But We Are Fixing This Issue 
+- Compressor Issue Fixed!
 ***************************************************************************************************
 
 Twitter https://www.twitter.com/apexrepack
