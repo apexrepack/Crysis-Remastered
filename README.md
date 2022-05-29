@@ -1,5 +1,5 @@
 *************************************************************************************************
-Crysis Remastered Game Repack Release Tomorrow
+Crysis Remastered Game Repack Tools Developer Edition Release Tomorrow
 *************************************************************************************************
 Repack Script Changelog:
 - Crysis Remastered APEX Repack Script 95% Done.
