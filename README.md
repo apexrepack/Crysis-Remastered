@@ -1,6 +1,4 @@
 *************************************************************************************************
-- Today 7:00pm Release In Crysis Remastered Game Repack Tools.
-*************************************************************************************************
 Repack Changelog:
 - Added Lzma2, Srep64, FreeArc 0.67 & Precomp0.43 Compressor Script.
 - Removed Lzma & Srep Compressor Script Code Line.
