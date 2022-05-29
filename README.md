@@ -20,7 +20,10 @@ Normal Repack Script Changelog:
 - Compressor .bat Files Name Changed.
 ***************************************************************************************************
 Normal Repack Script Process:
-- 60% Script Done!
+- 60% Done!
+- Under Testing In APEX Team!
+- Compressor Stability Chacking Process Start!
+- Inno Code Checking APEX Team!
 ***************************************************************************************************
 
 Twitter ➡ https://www.twitter.com/apexrepack
