@@ -9,6 +9,7 @@ Repack Changelog:
 - Repack Tools Stability Improved.
 - Compressor CPU Usage Stability Improved.
 - Compressor Ram Usage Stability Improved.
+- Compressor Stability Improved.
 - Compressor Now Supported In AMD Ryzen 5000 Series CPU.
 - Compressor Now Compatble In Intel 12th Gen CPU.
 - Same Bug Facing In Repack Banner Tile.
