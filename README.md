@@ -14,7 +14,7 @@ Repack Changelog:
 - Compressor Now Compatble In Intel 12th Gen CPU.
 - Same Bug Facing In Repack Banner Tile.
 *************************************************************************************************
-Normal Repack Script Changelog:
+Normal Repack Changelog:
 - Normal Users Crysis Remastered Repack Script Release In July Month Probaly.
 - Added Lzma2, Srep64 & Precomp0.43 Compressor Script.
 - Compressor Path Changed For E:\ Disk.
