@@ -10,7 +10,7 @@ Developer Repack Changelog:
 - Compressor Stability Improved.
 - Compressor Now Supported In AMD Ryzen 5000 Series CPU.
 - Compressor Now Compatable In Intel 12th Gen CPU.
-- Same Bug Facing In Repack Banner Tile.
+- Some Bug Facing In Repack Banner Tile.
 *************************************************************************************************
 Normal Repack Changelog:
 - Normal Users Crysis Remastered Repack Script Release In July Month Probaly.
