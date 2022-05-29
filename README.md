@@ -1,5 +1,5 @@
 *************************************************************************************************
-Repack Changelog:
+Developer Repack Changelog:
 - Added Lzma2, Srep64, FreeArc 0.67 & Precomp0.43 Compressor Script.
 - Removed Lzma & Srep Compressor Script Code Line.
 - Compressor Path Changed For E:\ Disk.
