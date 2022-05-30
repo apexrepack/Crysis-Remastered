@@ -13,16 +13,20 @@ Developer Repack Changelog:
 - Some Bug Facing In Repack Banner Tile.
 *************************************************************************************************
 Normal Repack Changelog:
-- Normal Users Crysis Remastered Repack Script Release In July Month Probaly.
+- Normal Users Crysis Remastered Game Repack Tools Release In July Month Probaly.
 - Added Lzma2, Srep64 & Precomp0.43 Compressor Script.
 - Compressor Path Changed For E:\ Disk.
 - Compressor .bat Files Name Changed.
+- Compressor System Stability Improved.
+- Compressor RAM & CPU Usage Stability Improved.
+- Compressor Now Supported In AMD Ryzen 3000 or 5000 Series CPU.
+- Compressor Files Compressed Time Some Bug Facing In Intel CPU.
+- Repack Tools System Stability Improved.
+- Repack Tools Banner Tiles Bug Fixed.
 ***************************************************************************************************
 Normal Repack Script Process:
-- 60% Done!
+- 65% Done!
 - Under Testing In APEX Team!
-- Compressor Stability Chacking Process Start!
-- Inno Code Checking APEX Team!
 ***************************************************************************************************
 
 Twitter ➡ https://www.twitter.com/apexrepack
