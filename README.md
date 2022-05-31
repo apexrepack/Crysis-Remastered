@@ -20,7 +20,7 @@ Normal Repack Changelog:
 - Compressor System Stability Improved.
 - Compressor RAM & CPU Usage Stability Improved.
 - Compressor Now Supported In AMD Ryzen 3000 or 5000 Series CPU.
-- Compressor Files Compressed Time Some Bug Facing In Intel CPU.
+- Data File Compressed Time Some Bug Facing In Intel CPU.
 - Repack Tools System Stability Improved.
 - Repack Tools Banner Tiles Bug Fixed.
 ***************************************************************************************************
