@@ -25,7 +25,7 @@ Normal Repack Changelog:
 - Repack Tools Banner Tiles Bug Fixed.
 ***************************************************************************************************
 Normal Repack Tools Process:
-- 95% Done! | Compressor Ready!
+- 95% Done! Script | Compressor Ready!
 - Release Soon!
 ***************************************************************************************************
 
