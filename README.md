@@ -24,8 +24,8 @@ Normal Repack Changelog:
 - Repack Tools System Stability Improved.
 - Repack Tools Banner Tiles Bug Fixed.
 ***************************************************************************************************
-Normal Repack Script Process:
-- 85% Done!
+Normal Repack Tools Process:
+- 95% Done! | Compressor Ready!
 - Release Soon!
 ***************************************************************************************************
 
