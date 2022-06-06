@@ -13,7 +13,7 @@ Developer Repack Changelog:
 - Some Bug Facing In Repack Banner Tile.
 *************************************************************************************************
 Normal Repack Changelog:
-- Added Lzma2, Srep64 & Precomp0.43 Compressor Script.
+- Added Lzma2, Srep64, FreeArc 0.67 Precomp0.43 Compressor Script.
 - Compressor Path Changed For C:\ Disk.
 - Compressor .bat Files Name Changed.
 - Compressor System Stability Improved.
