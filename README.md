@@ -24,7 +24,5 @@ Normal Repack Changelog:
 - Repack Tools System Stability Improved.
 - Repack Tools Banner Tiles Bug Fixed.
 ***************************************************************************************************
-Today Release In Crysis Remastered Normal Users Repack Tools!
-***************************************************************************************************
-
 Twitter ➡ https://www.twitter.com/apexrepack
+***************************************************************************************************
