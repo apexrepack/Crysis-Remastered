@@ -14,7 +14,7 @@ Developer Repack Changelog:
 *************************************************************************************************
 Normal Repack Changelog:
 - Added Lzma2, Srep64 & Precomp0.43 Compressor Script.
-- Compressor Path Changed For E:\ Disk.
+- Compressor Path Changed For C:\ Disk.
 - Compressor .bat Files Name Changed.
 - Compressor System Stability Improved.
 - Compressor RAM & CPU Usage Stability Improved.
